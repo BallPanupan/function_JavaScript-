@@ -13,3 +13,7 @@ function makeaAdjectifier(adjective){
 
 var coolifier = makeaAdjectifier("cool");
 console.log(coolifier("congerence"));
+
+//result
+//Hello, i'm panupan
+//cool congerence
